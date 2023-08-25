@@ -1,0 +1,60 @@
+export const confiapp = [
+    { id: 1, documento: "12345678", nombre: "jonatan", apellido: "diaz", edad: "19", parentezco: "hijo", sexo: "masculino", ruta: "ruta1" },
+    { id: 2, documento: "23456789", nombre: "steven", apellido: "guti", edad: "31", parentezco: "padre", sexo: "masculino", ruta: "ruta6" },
+    { id: 3, documento: "34567890", nombre: "juan", apellido: "dorado", edad: "19", parentezco: "hijo", sexo: "masculino", ruta: "ruta3" },
+    { id: 4, documento: "45678901", nombre: "roberto", apellido: "lewandosky", edad: "35", parentezco: "tío", sexo: "masculino", ruta: "ruta3" },
+    { id: 5, documento: "56789012", nombre: "pedro", apellido: "jr", edad: "25", parentezco: "sobrino", sexo: "masculino", ruta: "ruta2" },
+    { id: 6, documento: "67890123", nombre: "maría", apellido: "lopez", edad: "29", parentezco: "prima", sexo: "femenino", ruta: "ruta5" },
+    { id: 7, documento: "78901234", nombre: "andres", apellido: "perez", edad: "42", parentezco: "abuelo", sexo: "masculino", ruta: "ruta2" },
+    { id: 8, documento: "89012345", nombre: "ana", apellido: "martinez", edad: "37", parentezco: "madre", sexo: "femenino", ruta: "ruta6" },
+    { id: 9, documento: "90123456", nombre: "sofía", apellido: "ramirez", edad: "23", parentezco: "hermana", sexo: "femenino", ruta: "ruta5" },
+    { id: 10, documento: "01234567", nombre: "andy", apellido: "garcia", edad: "19", parentezco: "primo", sexo: "masculino", ruta: "ruta1" },
+
+
+    { id: 11, documento: "123456781", nombre: "steven", apellido: "campos", edad: "35", parentezco: "hijo", sexo: "masculino", ruta: "ruta1" },
+    { id: 1, documento: "234567849", nombre: "andres", apellido: "gilon", edad: "19", parentezco: "padre", sexo: "masculino", ruta: "ruta6" },
+    { id: 13, documento: "3456789560", nombre: "juan", apellido: "dorado", edad: "25", parentezco: "hijo", sexo: "masculino", ruta: "ruta3" },
+    { id: 14, documento: "4567890441", nombre: "maria", apellido: "lewy", edad: "42", parentezco: "tío", sexo: "masculino", ruta: "ruta3" },
+    { id: 15, documento: "5678901332", nombre: "sofia", apellido: "jgh", edad: "37", parentezco: "sobrino", sexo: "masculino", ruta: "ruta2" },
+    { id: 16, documento: "6789330123", nombre: "andy", apellido: "loro", edad: "42", parentezco: "prima", sexo: "femenino", ruta: "ruta5" },
+    { id: 17, documento: "78903234", nombre: "ana", apellido: "perez", edad: "19", parentezco: "abuelo", sexo: "masculino", ruta: "ruta2" },
+    { id: 18, documento: "8901332345", nombre: "pedro", apellido: "martinez", edad: "37", parentezco: "madre", sexo: "femenino", ruta: "ruta6" },
+    { id: 19, documento: "9012346656", nombre: "roberto", apellido: "paz", edad: "25", parentezco: "hermana", sexo: "femenino", ruta: "ruta5" },
+    { id: 20, documento: "0123456897", nombre: "jonatan", apellido: "garden", edad: "19", parentezco: "primo", sexo: "masculino", ruta: "ruta1" },
+
+
+    { id: 21, documento: "1234567822", nombre: "jonatan", apellido: "di", edad: "19", parentezco: "hijo", sexo: "masculino", ruta: "ruta1" },
+    { id: 22, documento: "2345678944", nombre: "roberto", apellido: "guti", edad: "42", parentezco: "padre", sexo: "masculino", ruta: "ruta6" },
+    { id: 23, documento: "3456789055", nombre: "pedro", apellido: "dorajk", edad: "19", parentezco: "hijo", sexo: "masculino", ruta: "ruta3" },
+    { id: 24, documento: "4567890166", nombre: "ana", apellido: "lewandosky", edad: "37", parentezco: "tío", sexo: "masculino", ruta: "ruta3" },
+    { id: 25, documento: "5678901277", nombre: "steven", apellido: "jr", edad: "42", parentezco: "sobrino", sexo: "masculino", ruta: "ruta2" },
+    { id: 26, documento: "6789012388", nombre: "maría", apellido: "lopez", edad: "25", parentezco: "prima", sexo: "femenino", ruta: "ruta5" },
+    { id: 27, documento: "789012349", nombre: "sofia", apellido: "paz", edad: "25", parentezco: "abuelo", sexo: "masculino", ruta: "ruta2" },
+    { id: 28, documento: "890123450", nombre: "juan", apellido: "martinez", edad: "37", parentezco: "madre", sexo: "femenino", ruta: "ruta6" },
+    { id: 29, documento: "901234566", nombre: "andres", apellido: "paz", edad: "25", parentezco: "hermana", sexo: "femenino", ruta: "ruta5" },
+    { id: 30, documento: "0123456754", nombre: "andy", apellido: "garces", edad: "19", parentezco: "primo", sexo: "masculino", ruta: "ruta1" },
+
+
+
+    { id: 31, documento: "1234567845", nombre: "andy", apellido: "diaz", edad: "19", parentezco: "hijo", sexo: "masculino", ruta: "ruta1" },
+    { id: 32, documento: "2345678977", nombre: "steven", apellido: "guti", edad: "42", parentezco: "padre", sexo: "masculino", ruta: "ruta6" },
+    { id: 33, documento: "3456789550", nombre: "juan", apellido: "dorado", edad: "19", parentezco: "hijo", sexo: "masculino", ruta: "ruta3" },
+    { id: 34, documento: "45674t58901", nombre: "roberto", apellido: "lewandosky", edad: "25", parentezco: "tío", sexo: "masculino", ruta: "ruta3" },
+    { id: 35, documento: "5678967012", nombre: "pedro", apellido: "jr", edad: "25", parentezco: "sobrino", sexo: "masculino", ruta: "ruta2" },
+    { id: 36, documento: "6789077123", nombre: "andres", apellido: "lopez", edad: "19", parentezco: "prima", sexo: "femenino", ruta: "ruta5" },
+    { id: 37, documento: "7890891234", nombre: "ana", apellido: "perez", edad: "37", parentezco: "abuelo", sexo: "masculino", ruta: "ruta2" },
+    { id: 38, documento: "8988012345", nombre: "sofia", apellido: "martinez", edad: "42", parentezco: "madre", sexo: "femenino", ruta: "ruta6" },
+    { id: 39, documento: "9014423456", nombre: "maria", apellido: "ramirez", edad: "42", parentezco: "hermana", sexo: "femenino", ruta: "ruta5" },
+    { id: 40, documento: "0123334567", nombre: "jonatan", apellido: "garcia", edad: "19", parentezco: "primo", sexo: "masculino", ruta: "ruta1" },
+
+
+    { id: 41, documento: "12345ww678", nombre: "maria", apellido: "diaz", edad: "37", parentezco: "hijo", sexo: "masculino", ruta: "ruta1" },
+    { id: 42, documento: "234df56789", nombre: "steven", apellido: "guti", edad: "42", parentezco: "padre", sexo: "masculino", ruta: "ruta6" },
+    { id: 43, documento: "3456745890", nombre: "jonatan", apellido: "dorado", edad: "19", parentezco: "hijo", sexo: "masculino", ruta: "ruta4" },
+    { id: 44, documento: "4566778901", nombre: "roberto", apellido: "lewandosky", edad: "25", parentezco: "tío", sexo: "masculino", ruta: "ruta4" },
+    { id: 45, documento: "5675589012", nombre: "pedro", apellido: "jr", edad: "25", parentezco: "sobrino", sexo: "masculino", ruta: "ruta2" },
+    { id: 46, documento: "6784490123", nombre: "ana", apellido: "lopez", edad: "19", parentezco: "prima", sexo: "femenino", ruta: "ruta5" },
+    { id: 47, documento: "7228901234", nombre: "sofia", apellido: "perez", edad: "42", parentezco: "abuelo", sexo: "masculino", ruta: "ruta2" },
+    { id: 48, documento: "890212345", nombre: "andres", apellido: "martinez", edad: "37", parentezco: "madre", sexo: "femenino", ruta: "ruta6" },
+    { id: 49, documento: "902123456", nombre: "juan", apellido: "ramirez", edad: "25", parentezco: "hermana", sexo: "femenino", ruta: "ruta5" },
+    { id: 50, documento: "011234567", nombre: "andy", apellido: "garcia", edad: "19", parentezco: "primo", sexo: "masculino", ruta: "ruta1" }];
