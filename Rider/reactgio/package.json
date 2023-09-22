@@ -1,0 +1,22 @@
+{
+  "name": "reactgio",
+  "version": "1.0.0",
+  "description": "minode",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon miapp.js",
+    "test": "test"
+  },
+  "dependencies": {
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoos": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.33.0"
+  }
+}
